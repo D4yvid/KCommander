@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/03d794a6-4efd-4491-ada4-59dcd659103f" alt="CommandService Logo" width="500"/>
+<img src="https://github.com/user-attachments/assets/03d794a6-4efd-4491-ada4-59dcd659103f" width="500"/>
 
 # KCommander
 
